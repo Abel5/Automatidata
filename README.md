@@ -1,4 +1,5 @@
 # Automatidata
 Google Advanced Data Analysis Project
 
-[Uploading Coursera 9XDPG5E2LM23.pdf…]()
+
+![alt text](https://github.com/Abel5/Automatidata/blob/main/images/Google%20Advanced%20Data%20Analysis%20Ceirtificate.pdf) 
